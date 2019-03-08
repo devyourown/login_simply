@@ -1,5 +1,4 @@
 from selenium import webdriver
-import selenium
 
 USER = "YourID"
 PASS = "YourPassword"
